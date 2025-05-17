@@ -1,3 +1,5 @@
+#!/bin/bash
+
 User1=Sahith
 User2=Divya
 $User1: Hi $User2, how are you?
